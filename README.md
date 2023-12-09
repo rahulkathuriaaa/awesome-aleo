@@ -118,6 +118,8 @@ The following is a curated list of applications powered by Aleo.
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
 - [Artgo](https://github.com/artgo-labs/artgo) - An AIGC-based NFT creating and trading platform
 - [Aleo.store](https://aleo.store) - Aleo NFT Marketplace and Open source NFT standard proposition.
+- [IKnowSpots](https://github.com/IKnowSpots/Aleo.git) - Community engagegment protocol via NFT ticketing
+
 
 ### Bridging
 
